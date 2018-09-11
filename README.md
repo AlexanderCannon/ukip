@@ -30,6 +30,6 @@ The social harmony was also stretched in the poorer streets of the East End; and
 
 But the Victorians had been brilliantly open. Funnily enough, in 1879, a group of Westphalian businessmen were contemplating the long-standing German customs union, and wondered if it might be extended to Britain. Victorian London proved something greater: that an independent country need not be fearful or insular but instead always eager to welcome fresh talented souls.
 
-Credit to [Sinclair McKay](https://www.spectator.co.uk/2018/08/freedom-of-movement-isnt-an-eu-invention-victorian-london-thrived-on-it/) for superior words to the ones I could hope to express.
+### Credit to [Sinclair McKay](https://www.spectator.co.uk/2018/08/freedom-of-movement-isnt-an-eu-invention-victorian-london-thrived-on-it/) for superior words to the ones I could hope to express.
 
 Follow me on [github](www.github.com/alexandercannon) & [twitter](www.twitter.com/alexmcan) for more.

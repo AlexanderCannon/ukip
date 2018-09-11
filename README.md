@@ -1,8 +1,8 @@
 # We are stronger together.
 
 
-![monet's houses of parliment](monet.jpeg)
-Monet painted dozens of images of the thames.
+![monet's houses of parliment](images/monet.jpg)
+>Monet painted dozens of images of the thames.
 
 **H**ere’s a bracing lesson from Victorian history that might possibly help to slice some impossible Brexit knots. In the 19th century, there was complete freedom of movement of people from Europe to Britain. And that was all anyone needed. Europhiles might find it difficult to conceive of a time when the folk of continental Europe ached to get to Britain because it was only here that they could find stability, peace, and freedom from oppression. Remainers might find it impossible to imagine that this wholly independent nation — rather than being xenophobic — welcomed the newcomers, and revelled in the cultural riches that they brought.
 

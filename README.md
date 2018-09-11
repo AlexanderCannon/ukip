@@ -1,5 +1,15 @@
 # We are stronger together.
 
+## Add me to your Project on NPM
+```bash
+$ npm add ukip --save
+```
+or
+```bash
+$ yarn add ukip
+```
+
+🛠 https://www.npmjs.com/package/ukip
 
 ![monet's houses of parliment](https://github.com/AlexanderCannon/ukip/blob/master/images/monet.jpg)
 >Monet painted dozens of images of the thames.
